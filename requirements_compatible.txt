@@ -1,0 +1,13 @@
+# Compatible version requirements
+streamlit>=1.20.0
+langchain>=0.0.350
+faiss-cpu>=1.7.0
+openai>=0.28.0
+PyPDF2>=3.0.0
+sentence-transformers>=2.2.0
+tiktoken>=0.4.0
+numpy>=1.21.0
+pandas>=1.5.0
+langchain-community>=0.0.10
+requests>=2.28.0
+setuptools>=65.0.0
